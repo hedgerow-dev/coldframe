@@ -6,6 +6,8 @@ In 2026, attackers broke into internet-facing refrigeration supervisors across E
 
 It is one Python file with no dependencies outside the standard library.
 
+Follow [@Hedgerowdotdev](https://x.com/Hedgerowdotdev) on X for releases and research.
+
 ## Personas
 
 | Persona | Pretends to be | What it serves |
